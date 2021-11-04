@@ -1,0 +1,20 @@
+{
+  "name": "landtech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polymath-earlydoors/landtech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polymath-earlydoors/landtech/issues"
+  },
+  "homepage": "https://github.com/polymath-earlydoors/landtech#readme"
+}
